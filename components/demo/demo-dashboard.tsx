@@ -36,7 +36,7 @@ function DemoBanner() {
       style={{ borderColor: colors.border, backgroundColor: "rgba(245,166,35,0.08)", color: colors.amber }}
     >
       <span>You&apos;re viewing a live demo with sample data — nothing here is a real account, and nothing you do is saved.</span>
-      <a href="https://github.com/8fn4wf8phr-ops/GroundWork" target="_blank" rel="noreferrer" className="underline underline-offset-2">
+      <a href="https://github.com/jacquezmonroe/GroundWork" target="_blank" rel="noreferrer" className="underline underline-offset-2">
         See the real README
       </a>
     </div>

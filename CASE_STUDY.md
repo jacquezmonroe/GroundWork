@@ -1,6 +1,6 @@
 # Groundwork: a job-search tracker that argues with itself
 
-**[Live demo](https://groundwork-six-ochre.vercel.app/demo) · [Source](https://github.com/8fn4wf8phr-ops/GroundWork)**
+**[Live demo](https://groundwork-six-ochre.vercel.app/demo) · [Source](https://github.com/jacquezmonroe/GroundWork)**
 
 Most job-search trackers are a spreadsheet with extra steps: you still do
 the discovery, the scoring, the "should I apply to this" judgment calls
